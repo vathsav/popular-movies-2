@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_activity_main">Movies</string>
+    <string name="title_activity_movie_details">Description</string>
+
+    <string name="action_sort_popularity">Sort by Popularity</string>
+    <string name="action_sort_rating">Sort by Rating</string>
+    <string name="action_sort_favorites">Favorites</string>
+    <string name="action_share">Share</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
